@@ -23,7 +23,7 @@ npm install
 <b>
   
 
-### Step 3 : Replace the Token in [config.json](https://github.com/ZeroDiscord/Welcomer/blob/master/config.json) <br>
+### Step 3 : Replace the Token in [config.json] <br>
 #### That's all! We Are Done! Now Simply host the Bot!
 
 ### Run with node
